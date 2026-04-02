@@ -38,43 +38,67 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
 - **[slam-handbook-python](https://github.com/rsasaki0109/slam-handbook-python)** · **11 stars** · Python + Jupyter hands-on material for learning SLAM systematically.
 - **[CloudAnalyzer](https://github.com/rsasaki0109/CloudAnalyzer)** · **7 stars** · Active point-cloud analysis CLI with metrics, ICP, and GICP workflows.
 
-## Visual Highlights
+## Featured Repositories
 
-Left: **[lidarslam_ros2](https://github.com/rsasaki0109/lidarslam_ros2)** · **799 stars** · ROS 2 LiDAR SLAM for pointcloud-map authoring, benchmarking, and Autoware-compatible map workflows.
-
-Right: **[rust_robotics](https://github.com/rsasaki0109/rust_robotics)** · **184 stars** · Robotics algorithms and reference implementations in Rust.
-
-<p>
-  <a href="https://github.com/rsasaki0109/lidarslam_ros2">
-    <img alt="lidarslam_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/lidarslam_ros2/develop/lidarslam/images/social_autoware_map_authoring.png" width="49%" align="top">
-  </a>
-  <a href="https://github.com/rsasaki0109/rust_robotics">
-    <img alt="rust_robotics preview" src="https://raw.githubusercontent.com/rsasaki0109/rust_robotics/main/docs/assets/social-preview.svg" width="49%" align="top">
-  </a>
-</p>
-
-Left: **[gnssplusplus-library](https://github.com/rsasaki0109/gnssplusplus-library)** · **118 stars** · Modern C++ GNSS / RTK / PPP / CLAS toolkit.
-
-Right: **[CloudAnalyzer](https://github.com/rsasaki0109/CloudAnalyzer)** · **7 stars** · Active point-cloud analysis CLI with metrics, ICP, and GICP workflows.
-
-<p>
-  <a href="https://github.com/rsasaki0109/gnssplusplus-library">
-    <img alt="gnssplusplus-library preview" src="https://raw.githubusercontent.com/rsasaki0109/gnssplusplus-library/develop/docs/driving_odaiba_social_card.png" width="49%" align="top">
-  </a>
-  <a href="https://github.com/rsasaki0109/CloudAnalyzer">
-    <img alt="CloudAnalyzer preview" src="https://raw.githubusercontent.com/rsasaki0109/CloudAnalyzer/main/docs/images/f1_voxel05.png" width="49%" align="top">
-  </a>
-</p>
-
-Left: **[dynamic-3d-object-removal](https://github.com/rsasaki0109/dynamic-3d-object-removal)** · **29 stars** · LiDAR dynamic object removal with public demos and a ROS 2 realtime node.
-
-Right: **[localization_zoo](https://github.com/rsasaki0109/localization_zoo)** · **12 stars** · Recent localization baselines, derived variants, tests, and benchmarks.
-
-<p>
-  <a href="https://github.com/rsasaki0109/dynamic-3d-object-removal">
-    <img alt="dynamic-3d-object-removal preview" src="https://raw.githubusercontent.com/rsasaki0109/dynamic-3d-object-removal/master/demo/story_mode.gif" width="49%" align="top">
-  </a>
-  <a href="https://github.com/rsasaki0109/localization_zoo">
-    <img alt="localization_zoo preview" src="https://raw.githubusercontent.com/rsasaki0109/localization_zoo/main/docs/benchmarks/latest/trajectory.png" width="49%" align="top">
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/rsasaki0109/lidarslam_ros2">lidarslam_ros2</a></strong><br>
+      <strong>799 stars</strong><br>
+      ROS 2 LiDAR SLAM for pointcloud-map authoring, benchmarking, and Autoware-compatible map workflows.
+      <br><br>
+      <a href="https://github.com/rsasaki0109/lidarslam_ros2">
+        <img alt="lidarslam_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/lidarslam_ros2/develop/lidarslam/images/social_autoware_map_authoring.png" width="100%">
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/rsasaki0109/rust_robotics">rust_robotics</a></strong><br>
+      <strong>184 stars</strong><br>
+      Robotics algorithms and reference implementations in Rust.
+      <br><br>
+      <a href="https://github.com/rsasaki0109/rust_robotics">
+        <img alt="rust_robotics preview" src="https://raw.githubusercontent.com/rsasaki0109/rust_robotics/main/docs/assets/social-preview.svg" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/rsasaki0109/gnssplusplus-library">gnssplusplus-library</a></strong><br>
+      <strong>118 stars</strong><br>
+      Modern C++ GNSS / RTK / PPP / CLAS toolkit.
+      <br><br>
+      <a href="https://github.com/rsasaki0109/gnssplusplus-library">
+        <img alt="gnssplusplus-library preview" src="https://raw.githubusercontent.com/rsasaki0109/gnssplusplus-library/develop/docs/driving_odaiba_social_card.png" width="100%">
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/rsasaki0109/CloudAnalyzer">CloudAnalyzer</a></strong><br>
+      <strong>7 stars</strong><br>
+      Active point-cloud analysis CLI with metrics, ICP, and GICP workflows.
+      <br><br>
+      <a href="https://github.com/rsasaki0109/CloudAnalyzer">
+        <img alt="CloudAnalyzer preview" src="https://raw.githubusercontent.com/rsasaki0109/CloudAnalyzer/main/docs/images/f1_voxel05.png" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/rsasaki0109/dynamic-3d-object-removal">dynamic-3d-object-removal</a></strong><br>
+      <strong>29 stars</strong><br>
+      LiDAR dynamic object removal with public demos and a ROS 2 realtime node.
+      <br><br>
+      <a href="https://github.com/rsasaki0109/dynamic-3d-object-removal">
+        <img alt="dynamic-3d-object-removal preview" src="https://raw.githubusercontent.com/rsasaki0109/dynamic-3d-object-removal/master/demo/story_mode.gif" width="100%">
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/rsasaki0109/localization_zoo">localization_zoo</a></strong><br>
+      <strong>12 stars</strong><br>
+      Recent localization baselines, derived variants, tests, and benchmarks.
+      <br><br>
+      <a href="https://github.com/rsasaki0109/localization_zoo">
+        <img alt="localization_zoo preview" src="https://raw.githubusercontent.com/rsasaki0109/localization_zoo/main/docs/benchmarks/latest/trajectory.png" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
