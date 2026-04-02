@@ -47,7 +47,9 @@ Repository visuals pulled from actual project assets and demos.
       <br>
       <a href="https://github.com/rsasaki0109/lidarslam_ros2"><strong>lidarslam_ros2</strong></a>
       <br>
-      <sub>799 stars · ROS 2 LiDAR SLAM and map authoring workflows</sub>
+      <img alt="lidarslam_ros2 stars" src="https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2?style=for-the-badge&logo=github&label=stars">
+      <br>
+      <sub>ROS 2 LiDAR SLAM and map authoring workflows</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/rsasaki0109/lidar_localization_ros2">
@@ -56,7 +58,9 @@ Repository visuals pulled from actual project assets and demos.
       <br>
       <a href="https://github.com/rsasaki0109/lidar_localization_ros2"><strong>lidar_localization_ros2</strong></a>
       <br>
-      <sub>484 stars · 3D LiDAR localization in ROS 2</sub>
+      <img alt="lidar_localization_ros2 stars" src="https://img.shields.io/github/stars/rsasaki0109/lidar_localization_ros2?style=for-the-badge&logo=github&label=stars">
+      <br>
+      <sub>3D LiDAR localization in ROS 2</sub>
     </td>
   </tr>
   <tr>
@@ -67,7 +71,9 @@ Repository visuals pulled from actual project assets and demos.
       <br>
       <a href="https://github.com/rsasaki0109/li_slam_ros2"><strong>li_slam_ros2</strong></a>
       <br>
-      <sub>416 stars · tightly-coupled LiDAR inertial SLAM</sub>
+      <img alt="li_slam_ros2 stars" src="https://img.shields.io/github/stars/rsasaki0109/li_slam_ros2?style=for-the-badge&logo=github&label=stars">
+      <br>
+      <sub>tightly-coupled LiDAR inertial SLAM</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/rsasaki0109/kalman_filter_localization_ros2">
@@ -76,7 +82,9 @@ Repository visuals pulled from actual project assets and demos.
       <br>
       <a href="https://github.com/rsasaki0109/kalman_filter_localization_ros2"><strong>kalman_filter_localization_ros2</strong></a>
       <br>
-      <sub>342 stars · GNSS / IMU localization with Kalman filtering</sub>
+      <img alt="kalman_filter_localization_ros2 stars" src="https://img.shields.io/github/stars/rsasaki0109/kalman_filter_localization_ros2?style=for-the-badge&logo=github&label=stars">
+      <br>
+      <sub>GNSS / IMU localization with Kalman filtering</sub>
     </td>
   </tr>
   <tr>
@@ -87,7 +95,9 @@ Repository visuals pulled from actual project assets and demos.
       <br>
       <a href="https://github.com/rsasaki0109/rust_robotics"><strong>rust_robotics</strong></a>
       <br>
-      <sub>184 stars · robotics algorithms implemented in Rust</sub>
+      <img alt="rust_robotics stars" src="https://img.shields.io/github/stars/rsasaki0109/rust_robotics?style=for-the-badge&logo=github&label=stars">
+      <br>
+      <sub>robotics algorithms implemented in Rust</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/rsasaki0109/gnssplusplus-library">
@@ -96,7 +106,9 @@ Repository visuals pulled from actual project assets and demos.
       <br>
       <a href="https://github.com/rsasaki0109/gnssplusplus-library"><strong>gnssplusplus-library</strong></a>
       <br>
-      <sub>118 stars · modern C++ GNSS / RTK / PPP / CLAS toolkit</sub>
+      <img alt="gnssplusplus-library stars" src="https://img.shields.io/github/stars/rsasaki0109/gnssplusplus-library?style=for-the-badge&logo=github&label=stars">
+      <br>
+      <sub>modern C++ GNSS / RTK / PPP / CLAS toolkit</sub>
     </td>
   </tr>
   <tr>
@@ -107,7 +119,9 @@ Repository visuals pulled from actual project assets and demos.
       <br>
       <a href="https://github.com/rsasaki0109/PoseOptimizationSLAM3D"><strong>PoseOptimizationSLAM3D</strong></a>
       <br>
-      <sub>68 stars · 3D pose optimization SLAM samples</sub>
+      <img alt="PoseOptimizationSLAM3D stars" src="https://img.shields.io/github/stars/rsasaki0109/PoseOptimizationSLAM3D?style=for-the-badge&logo=github&label=stars">
+      <br>
+      <sub>3D pose optimization SLAM samples</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/rsasaki0109/littleslam_ros2">
@@ -116,7 +130,9 @@ Repository visuals pulled from actual project assets and demos.
       <br>
       <a href="https://github.com/rsasaki0109/littleslam_ros2"><strong>littleslam_ros2</strong></a>
       <br>
-      <sub>39 stars · educational 2D LiDAR SLAM for ROS 2</sub>
+      <img alt="littleslam_ros2 stars" src="https://img.shields.io/github/stars/rsasaki0109/littleslam_ros2?style=for-the-badge&logo=github&label=stars">
+      <br>
+      <sub>educational 2D LiDAR SLAM for ROS 2</sub>
     </td>
   </tr>
   <tr>
@@ -127,7 +143,9 @@ Repository visuals pulled from actual project assets and demos.
       <br>
       <a href="https://github.com/rsasaki0109/NormalDistributionTransform2D"><strong>NormalDistributionTransform2D</strong></a>
       <br>
-      <sub>37 stars · 2D NDT scan matching samples</sub>
+      <img alt="NormalDistributionTransform2D stars" src="https://img.shields.io/github/stars/rsasaki0109/NormalDistributionTransform2D?style=for-the-badge&logo=github&label=stars">
+      <br>
+      <sub>2D NDT scan matching samples</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/rsasaki0109/dynamic-3d-object-removal">
@@ -136,7 +154,60 @@ Repository visuals pulled from actual project assets and demos.
       <br>
       <a href="https://github.com/rsasaki0109/dynamic-3d-object-removal"><strong>dynamic-3d-object-removal</strong></a>
       <br>
-      <sub>29 stars · LiDAR dynamic object removal with demo visuals</sub>
+      <img alt="dynamic-3d-object-removal stars" src="https://img.shields.io/github/stars/rsasaki0109/dynamic-3d-object-removal?style=for-the-badge&logo=github&label=stars">
+      <br>
+      <sub>LiDAR dynamic object removal with demo visuals</sub>
+    </td>
+  </tr>
+</table>
+
+## Recent Active Projects
+
+Recently pushed repositories that already have some public traction.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rsasaki0109/CloudAnalyzer">
+        <img alt="CloudAnalyzer preview" src="https://raw.githubusercontent.com/rsasaki0109/CloudAnalyzer/main/docs/images/f1_voxel05.png">
+      </a>
+      <br>
+      <a href="https://github.com/rsasaki0109/CloudAnalyzer"><strong>CloudAnalyzer</strong></a>
+      <br>
+      <img alt="CloudAnalyzer stars" src="https://img.shields.io/github/stars/rsasaki0109/CloudAnalyzer?style=for-the-badge&logo=github&label=stars">
+      <img alt="CloudAnalyzer updated" src="https://img.shields.io/github/last-commit/rsasaki0109/CloudAnalyzer?style=flat-square&label=updated">
+      <br>
+      <sub>AI-friendly CLI for point cloud analysis, metrics, and ICP/GICP workflows</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rsasaki0109/localization_zoo">
+        <img alt="localization_zoo preview" src="https://raw.githubusercontent.com/rsasaki0109/localization_zoo/main/docs/benchmarks/latest/trajectory.png">
+      </a>
+      <br>
+      <a href="https://github.com/rsasaki0109/localization_zoo"><strong>localization_zoo</strong></a>
+      <br>
+      <img alt="localization_zoo stars" src="https://img.shields.io/github/stars/rsasaki0109/localization_zoo?style=for-the-badge&logo=github&label=stars">
+      <img alt="localization_zoo updated" src="https://img.shields.io/github/last-commit/rsasaki0109/localization_zoo?style=flat-square&label=updated">
+      <br>
+      <sub>ROS 2 localization baselines, variants, tests, and benchmarks</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rsasaki0109/gnss_gpu"><strong>gnss_gpu</strong></a>
+      <br>
+      <img alt="gnss_gpu stars" src="https://img.shields.io/github/stars/rsasaki0109/gnss_gpu?style=for-the-badge&logo=github&label=stars">
+      <img alt="gnss_gpu updated" src="https://img.shields.io/github/last-commit/rsasaki0109/gnss_gpu?style=flat-square&label=updated">
+      <br>
+      <sub>GPU-accelerated GNSS signal processing library in CUDA + Python</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rsasaki0109/slam-handbook-python"><strong>slam-handbook-python</strong></a>
+      <br>
+      <img alt="slam-handbook-python stars" src="https://img.shields.io/github/stars/rsasaki0109/slam-handbook-python?style=for-the-badge&logo=github&label=stars">
+      <img alt="slam-handbook-python updated" src="https://img.shields.io/github/last-commit/rsasaki0109/slam-handbook-python?style=flat-square&label=updated">
+      <br>
+      <sub>Python + Jupyter handson material for learning SLAM systematically</sub>
     </td>
   </tr>
 </table>
