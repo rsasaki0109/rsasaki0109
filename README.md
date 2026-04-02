@@ -29,14 +29,14 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
 - **[li_slam_ros2](https://github.com/rsasaki0109/li_slam_ros2)** · **416 stars** · Tightly-coupled LiDAR inertial SLAM for ROS 2.
 - **[kalman_filter_localization_ros2](https://github.com/rsasaki0109/kalman_filter_localization_ros2)** · **342 stars** · GNSS / IMU localization using Kalman filtering.
 - **[rust_robotics](https://github.com/rsasaki0109/rust_robotics)** · **184 stars** · Robotics algorithms and reference implementations in Rust.
-- **[gnssplusplus-library](https://github.com/rsasaki0109/gnssplusplus-library)** · **118 stars** · Modern C++ GNSS / RTK / PPP / CLAS toolkit.
+- **[gnssplusplus-library](https://github.com/rsasaki0109/gnssplusplus-library)** · **119 stars** · Modern C++ GNSS / RTK / PPP / CLAS toolkit.
 
 ### Recent Active
 
 - **[dynamic-3d-object-removal](https://github.com/rsasaki0109/dynamic-3d-object-removal)** · **29 stars** · LiDAR dynamic object removal with public demos and a ROS 2 realtime node.
 - **[localization_zoo](https://github.com/rsasaki0109/localization_zoo)** · **12 stars** · Recent localization baselines, derived variants, tests, and benchmarks.
-- **[slam-handbook-python](https://github.com/rsasaki0109/slam-handbook-python)** · **11 stars** · Python + Jupyter hands-on material for learning SLAM systematically.
 - **[CloudAnalyzer](https://github.com/rsasaki0109/CloudAnalyzer)** · **7 stars** · Active point-cloud analysis CLI with metrics, ICP, and GICP workflows.
+- **[gnss_gpu](https://github.com/rsasaki0109/gnss_gpu)** · **3 stars** · GPU-accelerated GNSS signal processing in CUDA + Python.
 
 ## Featured Repositories
 
@@ -52,6 +52,37 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
       </a>
     </td>
     <td valign="top" width="50%">
+      <strong><a href="https://github.com/rsasaki0109/lidar_localization_ros2">lidar_localization_ros2</a></strong><br>
+      <strong>484 stars</strong><br>
+      3D LiDAR localization with NDT/GICP and pointcloud maps in ROS 2.
+      <br><br>
+      <a href="https://github.com/rsasaki0109/lidar_localization_ros2">
+        <img alt="lidar_localization_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/lidar_localization_ros2/main/images/path.png" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/rsasaki0109/li_slam_ros2">li_slam_ros2</a></strong><br>
+      <strong>416 stars</strong><br>
+      Tightly-coupled LiDAR inertial SLAM for ROS 2.
+      <br><br>
+      <a href="https://github.com/rsasaki0109/li_slam_ros2">
+        <img alt="li_slam_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/li_slam_ros2/develop/scanmatcher/images/li_slam.gif" width="100%">
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/rsasaki0109/kalman_filter_localization_ros2">kalman_filter_localization_ros2</a></strong><br>
+      <strong>342 stars</strong><br>
+      GNSS / IMU localization using Kalman filtering.
+      <br><br>
+      <a href="https://github.com/rsasaki0109/kalman_filter_localization_ros2">
+        <img alt="kalman_filter_localization_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/kalman_filter_localization_ros2/devel/images/demo_ekfl.gif" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
       <strong><a href="https://github.com/rsasaki0109/rust_robotics">rust_robotics</a></strong><br>
       <strong>184 stars</strong><br>
       Robotics algorithms and reference implementations in Rust.
@@ -60,24 +91,13 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
         <img alt="rust_robotics preview" src="https://raw.githubusercontent.com/rsasaki0109/rust_robotics/main/docs/assets/social-preview.svg" width="100%">
       </a>
     </td>
-  </tr>
-  <tr>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/rsasaki0109/gnssplusplus-library">gnssplusplus-library</a></strong><br>
-      <strong>118 stars</strong><br>
+      <strong>119 stars</strong><br>
       Modern C++ GNSS / RTK / PPP / CLAS toolkit.
       <br><br>
       <a href="https://github.com/rsasaki0109/gnssplusplus-library">
         <img alt="gnssplusplus-library preview" src="https://raw.githubusercontent.com/rsasaki0109/gnssplusplus-library/develop/docs/driving_odaiba_social_card.png" width="100%">
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <strong><a href="https://github.com/rsasaki0109/CloudAnalyzer">CloudAnalyzer</a></strong><br>
-      <strong>7 stars</strong><br>
-      Active point-cloud analysis CLI with metrics, ICP, and GICP workflows.
-      <br><br>
-      <a href="https://github.com/rsasaki0109/CloudAnalyzer">
-        <img alt="CloudAnalyzer preview" src="https://raw.githubusercontent.com/rsasaki0109/CloudAnalyzer/main/docs/images/f1_voxel05.png" width="100%">
       </a>
     </td>
   </tr>
@@ -98,6 +118,26 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
       <br><br>
       <a href="https://github.com/rsasaki0109/localization_zoo">
         <img alt="localization_zoo preview" src="https://raw.githubusercontent.com/rsasaki0109/localization_zoo/main/docs/benchmarks/latest/trajectory.png" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/rsasaki0109/CloudAnalyzer">CloudAnalyzer</a></strong><br>
+      <strong>7 stars</strong><br>
+      Active point-cloud analysis CLI with metrics, ICP, and GICP workflows.
+      <br><br>
+      <a href="https://github.com/rsasaki0109/CloudAnalyzer">
+        <img alt="CloudAnalyzer preview" src="https://raw.githubusercontent.com/rsasaki0109/CloudAnalyzer/main/docs/images/f1_voxel05.png" width="100%">
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/rsasaki0109/gnss_gpu">gnss_gpu</a></strong><br>
+      <strong>3 stars</strong><br>
+      GPU-accelerated GNSS signal processing in CUDA + Python.
+      <br><br>
+      <a href="https://github.com/rsasaki0109/gnss_gpu">
+        <img alt="gnss_gpu preview" src="https://raw.githubusercontent.com/rsasaki0109/gnss_gpu/main/docs/assets/media/site_poster.png" width="100%">
       </a>
     </td>
   </tr>
