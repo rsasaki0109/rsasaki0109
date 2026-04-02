@@ -56,8 +56,3 @@ Nearly 3k GitHub stars across public repositories, centered on practical robotic
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rsasaki0109&repo=kalman_filter_localization_ros2&theme=transparent&hide_border=true">
   </a>
 </p>
-
-## Links
-
-- Website: https://rsasaki0109.github.io/
-- X: https://x.com/rsasaki0109
