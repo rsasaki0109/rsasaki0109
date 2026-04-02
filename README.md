@@ -44,10 +44,10 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
 
 <p>
   <a href="https://github.com/rsasaki0109/lidarslam_ros2">
-    <img alt="lidarslam_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/lidarslam_ros2/develop/lidarslam/images/social_autoware_map_authoring.png" width="49%">
+    <img alt="lidarslam_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/lidarslam_ros2/develop/lidarslam/images/social_autoware_map_authoring.png" width="49%" align="top">
   </a>
   <a href="https://github.com/rsasaki0109/rust_robotics">
-    <img alt="rust_robotics preview" src="https://raw.githubusercontent.com/rsasaki0109/rust_robotics/main/docs/assets/social-preview.svg" width="49%">
+    <img alt="rust_robotics preview" src="https://raw.githubusercontent.com/rsasaki0109/rust_robotics/main/docs/assets/social-preview.svg" width="49%" align="top">
   </a>
 </p>
 
@@ -55,10 +55,10 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
 
 <p>
   <a href="https://github.com/rsasaki0109/gnssplusplus-library">
-    <img alt="gnssplusplus-library preview" src="https://raw.githubusercontent.com/rsasaki0109/gnssplusplus-library/develop/docs/driving_odaiba_social_card.png" width="49%">
+    <img alt="gnssplusplus-library preview" src="https://raw.githubusercontent.com/rsasaki0109/gnssplusplus-library/develop/docs/driving_odaiba_social_card.png" width="49%" align="top">
   </a>
   <a href="https://github.com/rsasaki0109/CloudAnalyzer">
-    <img alt="CloudAnalyzer preview" src="https://raw.githubusercontent.com/rsasaki0109/CloudAnalyzer/main/docs/images/f1_voxel05.png" width="49%">
+    <img alt="CloudAnalyzer preview" src="https://raw.githubusercontent.com/rsasaki0109/CloudAnalyzer/main/docs/images/f1_voxel05.png" width="49%" align="top">
   </a>
 </p>
 
@@ -66,9 +66,9 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
 
 <p>
   <a href="https://github.com/rsasaki0109/dynamic-3d-object-removal">
-    <img alt="dynamic-3d-object-removal preview" src="https://raw.githubusercontent.com/rsasaki0109/dynamic-3d-object-removal/master/demo/story_mode.gif" width="49%">
+    <img alt="dynamic-3d-object-removal preview" src="https://raw.githubusercontent.com/rsasaki0109/dynamic-3d-object-removal/master/demo/story_mode.gif" width="49%" align="top">
   </a>
   <a href="https://github.com/rsasaki0109/localization_zoo">
-    <img alt="localization_zoo preview" src="https://raw.githubusercontent.com/rsasaki0109/localization_zoo/main/docs/benchmarks/latest/trajectory.png" width="49%">
+    <img alt="localization_zoo preview" src="https://raw.githubusercontent.com/rsasaki0109/localization_zoo/main/docs/benchmarks/latest/trajectory.png" width="49%" align="top">
   </a>
 </p>
