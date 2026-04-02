@@ -34,15 +34,109 @@ Nearly 3k GitHub stars across public repositories, centered on practical robotic
   </a>
 </p>
 
-## Featured Projects
+## Project Gallery
 
-<p>
-  <a href="https://github.com/rsasaki0109?tab=repositories">
-    <img alt="Featured repositories" src="./assets/featured-projects.svg">
-  </a>
-</p>
+Repository visuals pulled from actual project assets and demos.
 
-- [lidarslam_ros2](https://github.com/rsasaki0109/lidarslam_ros2) - 799 stars
-- [lidar_localization_ros2](https://github.com/rsasaki0109/lidar_localization_ros2) - 484 stars
-- [li_slam_ros2](https://github.com/rsasaki0109/li_slam_ros2) - 416 stars
-- [kalman_filter_localization_ros2](https://github.com/rsasaki0109/kalman_filter_localization_ros2) - 342 stars
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rsasaki0109/lidarslam_ros2">
+        <img alt="lidarslam_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/lidarslam_ros2/develop/lidarslam/images/social_autoware_map_authoring.png">
+      </a>
+      <br>
+      <a href="https://github.com/rsasaki0109/lidarslam_ros2"><strong>lidarslam_ros2</strong></a>
+      <br>
+      <sub>799 stars · ROS 2 LiDAR SLAM and map authoring workflows</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rsasaki0109/lidar_localization_ros2">
+        <img alt="lidar_localization_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/lidar_localization_ros2/main/images/path.png">
+      </a>
+      <br>
+      <a href="https://github.com/rsasaki0109/lidar_localization_ros2"><strong>lidar_localization_ros2</strong></a>
+      <br>
+      <sub>484 stars · 3D LiDAR localization in ROS 2</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rsasaki0109/li_slam_ros2">
+        <img alt="li_slam_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/li_slam_ros2/develop/scanmatcher/images/li_slam.gif">
+      </a>
+      <br>
+      <a href="https://github.com/rsasaki0109/li_slam_ros2"><strong>li_slam_ros2</strong></a>
+      <br>
+      <sub>416 stars · tightly-coupled LiDAR inertial SLAM</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rsasaki0109/kalman_filter_localization_ros2">
+        <img alt="kalman_filter_localization_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/kalman_filter_localization_ros2/devel/images/demo_ekfl.gif">
+      </a>
+      <br>
+      <a href="https://github.com/rsasaki0109/kalman_filter_localization_ros2"><strong>kalman_filter_localization_ros2</strong></a>
+      <br>
+      <sub>342 stars · GNSS / IMU localization with Kalman filtering</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rsasaki0109/rust_robotics">
+        <img alt="rust_robotics preview" src="https://raw.githubusercontent.com/rsasaki0109/rust_robotics/main/docs/assets/social-preview.svg">
+      </a>
+      <br>
+      <a href="https://github.com/rsasaki0109/rust_robotics"><strong>rust_robotics</strong></a>
+      <br>
+      <sub>184 stars · robotics algorithms implemented in Rust</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rsasaki0109/gnssplusplus-library">
+        <img alt="gnssplusplus-library preview" src="https://raw.githubusercontent.com/rsasaki0109/gnssplusplus-library/develop/docs/driving_odaiba_social_card.png">
+      </a>
+      <br>
+      <a href="https://github.com/rsasaki0109/gnssplusplus-library"><strong>gnssplusplus-library</strong></a>
+      <br>
+      <sub>118 stars · modern C++ GNSS / RTK / PPP / CLAS toolkit</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rsasaki0109/PoseOptimizationSLAM3D">
+        <img alt="PoseOptimizationSLAM3D preview" src="https://raw.githubusercontent.com/rsasaki0109/PoseOptimizationSLAM3D/master/images/output.png">
+      </a>
+      <br>
+      <a href="https://github.com/rsasaki0109/PoseOptimizationSLAM3D"><strong>PoseOptimizationSLAM3D</strong></a>
+      <br>
+      <sub>68 stars · 3D pose optimization SLAM samples</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rsasaki0109/littleslam_ros2">
+        <img alt="littleslam_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/littleslam_ros2/main/littleslam.png">
+      </a>
+      <br>
+      <a href="https://github.com/rsasaki0109/littleslam_ros2"><strong>littleslam_ros2</strong></a>
+      <br>
+      <sub>39 stars · educational 2D LiDAR SLAM for ROS 2</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rsasaki0109/NormalDistributionTransform2D">
+        <img alt="NormalDistributionTransform2D preview" src="https://raw.githubusercontent.com/rsasaki0109/NormalDistributionTransform2D/main/image/result.png">
+      </a>
+      <br>
+      <a href="https://github.com/rsasaki0109/NormalDistributionTransform2D"><strong>NormalDistributionTransform2D</strong></a>
+      <br>
+      <sub>37 stars · 2D NDT scan matching samples</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rsasaki0109/dynamic-3d-object-removal">
+        <img alt="dynamic-3d-object-removal preview" src="https://raw.githubusercontent.com/rsasaki0109/dynamic-3d-object-removal/master/demo/story_mode.gif">
+      </a>
+      <br>
+      <a href="https://github.com/rsasaki0109/dynamic-3d-object-removal"><strong>dynamic-3d-object-removal</strong></a>
+      <br>
+      <sub>29 stars · LiDAR dynamic object removal with demo visuals</sub>
+    </td>
+  </tr>
+</table>
