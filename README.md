@@ -40,7 +40,9 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
 
 ## Visual Highlights
 
-[lidarslam_ros2](https://github.com/rsasaki0109/lidarslam_ros2) · [rust_robotics](https://github.com/rsasaki0109/rust_robotics)
+Left: **[lidarslam_ros2](https://github.com/rsasaki0109/lidarslam_ros2)** · **799 stars** · ROS 2 LiDAR SLAM for pointcloud-map authoring, benchmarking, and Autoware-compatible map workflows.
+
+Right: **[rust_robotics](https://github.com/rsasaki0109/rust_robotics)** · **184 stars** · Robotics algorithms and reference implementations in Rust.
 
 <p>
   <a href="https://github.com/rsasaki0109/lidarslam_ros2">
@@ -51,7 +53,9 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
   </a>
 </p>
 
-[gnssplusplus-library](https://github.com/rsasaki0109/gnssplusplus-library) · [CloudAnalyzer](https://github.com/rsasaki0109/CloudAnalyzer)
+Left: **[gnssplusplus-library](https://github.com/rsasaki0109/gnssplusplus-library)** · **118 stars** · Modern C++ GNSS / RTK / PPP / CLAS toolkit.
+
+Right: **[CloudAnalyzer](https://github.com/rsasaki0109/CloudAnalyzer)** · **7 stars** · Active point-cloud analysis CLI with metrics, ICP, and GICP workflows.
 
 <p>
   <a href="https://github.com/rsasaki0109/gnssplusplus-library">
@@ -62,7 +66,9 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
   </a>
 </p>
 
-[dynamic-3d-object-removal](https://github.com/rsasaki0109/dynamic-3d-object-removal) · [localization_zoo](https://github.com/rsasaki0109/localization_zoo)
+Left: **[dynamic-3d-object-removal](https://github.com/rsasaki0109/dynamic-3d-object-removal)** · **29 stars** · LiDAR dynamic object removal with public demos and a ROS 2 realtime node.
+
+Right: **[localization_zoo](https://github.com/rsasaki0109/localization_zoo)** · **12 stars** · Recent localization baselines, derived variants, tests, and benchmarks.
 
 <p>
   <a href="https://github.com/rsasaki0109/dynamic-3d-object-removal">
