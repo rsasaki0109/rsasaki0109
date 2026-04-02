@@ -1,0 +1,44 @@
+<svg width="880" height="260" viewBox="0 0 880 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ryohei Sasaki Open Source Overview</title>
+  <desc id="desc">Open source overview showing 2893 stars, 636 followers, and focus areas in ROS 2, LiDAR SLAM, GNSS/IMU fusion, and Rust/C++/CUDA.</desc>
+  <defs>
+    <linearGradient id="bg" x1="40" y1="30" x2="840" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1D3557"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#172554"/>
+      <stop offset="1" stop-color="#1E3A5F"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="8" y="8" width="864" height="244" rx="24" fill="url(#bg)"/>
+  <rect x="8.5" y="8.5" width="863" height="243" rx="23.5" stroke="#334155"/>
+
+  <text x="40" y="46" fill="#93C5FD" font-size="14" font-family="Verdana, DejaVu Sans, sans-serif" letter-spacing="1.2">OPEN SOURCE SNAPSHOT</text>
+  <text x="40" y="88" fill="#F8FAFC" font-size="30" font-weight="700" font-family="Verdana, DejaVu Sans, sans-serif">Practical robotics software, built in the open.</text>
+  <text x="40" y="118" fill="#CBD5E1" font-size="17" font-family="Verdana, DejaVu Sans, sans-serif">Localization, mapping, GNSS/IMU fusion, and performance-oriented systems for ROS 2.</text>
+
+  <rect x="40" y="146" width="170" height="76" rx="18" fill="url(#panel)"/>
+  <rect x="224" y="146" width="170" height="76" rx="18" fill="url(#panel)"/>
+  <rect x="408" y="146" width="170" height="76" rx="18" fill="url(#panel)"/>
+
+  <text x="60" y="174" fill="#93C5FD" font-size="12" font-family="Verdana, DejaVu Sans, sans-serif" letter-spacing="1">PUBLIC STARS</text>
+  <text x="60" y="207" fill="#F8FAFC" font-size="30" font-weight="700" font-family="Verdana, DejaVu Sans, sans-serif">2,893</text>
+
+  <text x="244" y="174" fill="#93C5FD" font-size="12" font-family="Verdana, DejaVu Sans, sans-serif" letter-spacing="1">FOLLOWERS</text>
+  <text x="244" y="207" fill="#F8FAFC" font-size="30" font-weight="700" font-family="Verdana, DejaVu Sans, sans-serif">636</text>
+
+  <text x="428" y="174" fill="#93C5FD" font-size="12" font-family="Verdana, DejaVu Sans, sans-serif" letter-spacing="1">CORE STACK</text>
+  <text x="428" y="207" fill="#F8FAFC" font-size="24" font-weight="700" font-family="Verdana, DejaVu Sans, sans-serif">ROS 2 / Rust / C++ / CUDA</text>
+
+  <rect x="620" y="44" width="218" height="34" rx="17" fill="#0B1220" stroke="#334155"/>
+  <rect x="620" y="90" width="196" height="34" rx="17" fill="#0B1220" stroke="#334155"/>
+  <rect x="620" y="136" width="184" height="34" rx="17" fill="#0B1220" stroke="#334155"/>
+  <rect x="620" y="182" width="196" height="34" rx="17" fill="#0B1220" stroke="#334155"/>
+
+  <text x="638" y="65" fill="#E2E8F0" font-size="15" font-family="Verdana, DejaVu Sans, sans-serif">ROS 2 and Autoware</text>
+  <text x="638" y="111" fill="#E2E8F0" font-size="15" font-family="Verdana, DejaVu Sans, sans-serif">LiDAR SLAM</text>
+  <text x="638" y="157" fill="#E2E8F0" font-size="15" font-family="Verdana, DejaVu Sans, sans-serif">GNSS / IMU fusion</text>
+  <text x="638" y="203" fill="#E2E8F0" font-size="15" font-family="Verdana, DejaVu Sans, sans-serif">GPU acceleration</text>
+</svg>

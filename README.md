@@ -30,29 +30,19 @@ Nearly 3k GitHub stars across public repositories, centered on practical robotic
 
 <p>
   <a href="https://github.com/rsasaki0109">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=rsasaki0109&show_icons=true&hide_title=true&hide_border=true&theme=transparent&rank_icon=github&hide=issues,prs">
-  </a>
-  <a href="https://github.com/rsasaki0109?tab=repositories">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsasaki0109&layout=compact&hide_border=true&theme=transparent&langs_count=6&exclude_repo=rsasaki0109,rsasaki0109.github.io">
+    <img alt="Open source overview" src="./assets/profile-overview.svg">
   </a>
 </p>
 
 ## Featured Projects
 
 <p>
-  <a href="https://github.com/rsasaki0109/lidarslam_ros2">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rsasaki0109&repo=lidarslam_ros2&theme=transparent&hide_border=true">
-  </a>
-  <a href="https://github.com/rsasaki0109/lidar_localization_ros2">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rsasaki0109&repo=lidar_localization_ros2&theme=transparent&hide_border=true">
+  <a href="https://github.com/rsasaki0109?tab=repositories">
+    <img alt="Featured repositories" src="./assets/featured-projects.svg">
   </a>
 </p>
 
-<p>
-  <a href="https://github.com/rsasaki0109/li_slam_ros2">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rsasaki0109&repo=li_slam_ros2&theme=transparent&hide_border=true">
-  </a>
-  <a href="https://github.com/rsasaki0109/kalman_filter_localization_ros2">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rsasaki0109&repo=kalman_filter_localization_ros2&theme=transparent&hide_border=true">
-  </a>
-</p>
+- [lidarslam_ros2](https://github.com/rsasaki0109/lidarslam_ros2) - 799 stars
+- [lidar_localization_ros2](https://github.com/rsasaki0109/lidar_localization_ros2) - 484 stars
+- [li_slam_ros2](https://github.com/rsasaki0109/li_slam_ros2) - 416 stars
+- [kalman_filter_localization_ros2](https://github.com/rsasaki0109/kalman_filter_localization_ros2) - 342 stars
