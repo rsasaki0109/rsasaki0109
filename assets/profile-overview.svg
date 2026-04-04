@@ -1,6 +1,6 @@
 <svg width="880" height="300" viewBox="0 0 880 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Ryohei Sasaki Open Source Overview</title>
-  <desc id="desc">Open source overview showing 2893 stars, 636 followers, and focus areas in ROS 2, LiDAR SLAM, GNSS/IMU fusion, and Rust/C++/CUDA.</desc>
+  <desc id="desc">Open source overview showing 2893 stars, 636 followers, and focus areas in ROS 2, LiDAR SLAM, GNSS/IMU fusion, and C++.</desc>
   <defs>
     <linearGradient id="bg" x1="40" y1="30" x2="840" y2="270" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0F172A"/>
