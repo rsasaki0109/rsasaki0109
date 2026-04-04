@@ -30,7 +30,8 @@
   <text x="244" y="207" fill="#F8FAFC" font-size="30" font-weight="700" font-family="Verdana, DejaVu Sans, sans-serif">636</text>
 
   <text x="428" y="174" fill="#93C5FD" font-size="12" font-family="Verdana, DejaVu Sans, sans-serif" letter-spacing="1">CORE STACK</text>
-  <text x="428" y="207" fill="#F8FAFC" font-size="24" font-weight="700" font-family="Verdana, DejaVu Sans, sans-serif">ROS 2 / Rust / C++ / CUDA</text>
+  <text x="428" y="199" fill="#F8FAFC" font-size="15" font-weight="700" font-family="Verdana, DejaVu Sans, sans-serif">ROS 2 · C++</text>
+  <text x="428" y="217" fill="#F8FAFC" font-size="15" font-weight="700" font-family="Verdana, DejaVu Sans, sans-serif">Rust · CUDA</text>
 
   <rect x="620" y="44" width="218" height="34" rx="17" fill="#0B1220" stroke="#334155"/>
   <rect x="620" y="90" width="196" height="34" rx="17" fill="#0B1220" stroke="#334155"/>
