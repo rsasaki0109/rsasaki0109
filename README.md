@@ -34,11 +34,11 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
 
 ### Recent Active
 
+- **[CudaRobotics](https://github.com/rsasaki0109/CudaRobotics)** · **41 stars** · CUDA-accelerated robotics algorithms in C++ with 20+ SLAM, planning, and localization demos.
 - **[gnss_gpu](https://github.com/rsasaki0109/gnss_gpu)** · **44 stars** · GPU-accelerated GNSS signal processing in CUDA + Python.
 - **[localization_zoo](https://github.com/rsasaki0109/localization_zoo)** · **17 stars** · Recent localization baselines, derived variants, tests, and benchmarks.
 - **[CloudAnalyzer](https://github.com/rsasaki0109/CloudAnalyzer)** · **13 stars** · CLI-first QA toolkit for point clouds, trajectories, and 3D perception outputs.
 - **[simple_visual_slam](https://github.com/rsasaki0109/simple_visual_slam)** · **3 stars** · Readable Visual SLAM in 6k lines of C++17 with ROS 2 nodes.
-- **[lidar_slam_2d](https://github.com/rsasaki0109/lidar_slam_2d)** · **3 stars** · 2D LiDAR SLAM experiment platform with Cartographer parity and benchmark-driven iteration.
 
 ## Featured Repositories
 
@@ -114,12 +114,12 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
       </a>
     </td>
     <td valign="top" width="50%">
-      <strong><a href="https://github.com/rsasaki0109/CloudAnalyzer">CloudAnalyzer</a></strong><br>
-      <strong>13 stars</strong><br>
-      CLI-first QA toolkit for point clouds, trajectories, and 3D perception outputs.
+      <strong><a href="https://github.com/rsasaki0109/CudaRobotics">CudaRobotics</a></strong><br>
+      <strong>41 stars</strong><br>
+      CUDA-accelerated robotics algorithms in C++ with 20+ SLAM, planning, and localization demos.
       <br><br>
-      <a href="https://github.com/rsasaki0109/CloudAnalyzer">
-        <img alt="CloudAnalyzer preview" src="https://raw.githubusercontent.com/rsasaki0109/CloudAnalyzer/main/docs/pr/perception_summary_card.png" width="100%">
+      <a href="https://github.com/rsasaki0109/CudaRobotics">
+        <img alt="CudaRobotics preview" src="https://raw.githubusercontent.com/rsasaki0109/CudaRobotics/master/gif/comparison_pf_visual.gif" width="100%">
       </a>
     </td>
   </tr>
