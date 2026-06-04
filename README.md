@@ -39,6 +39,41 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
 - **[localization_zoo](https://github.com/rsasaki0109/localization_zoo)** · **37 stars** · Recent localization baselines, derived variants, tests, and benchmarks.
 - **[CloudAnalyzer](https://github.com/rsasaki0109/CloudAnalyzer)** · **13 stars** · CLI-first QA toolkit for point clouds, trajectories, and 3D perception outputs.
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/rsasaki0109/CudaRobotics">
+        <img alt="CudaRobotics LiDAR simulation demo" src="https://raw.githubusercontent.com/rsasaki0109/CudaRobotics/master/gif/comparison_lidar_sim.gif" width="100%">
+      </a>
+      <br>
+      <strong><a href="https://github.com/rsasaki0109/CudaRobotics">CudaRobotics</a></strong> · 82 stars
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/rsasaki0109/gnss_gpu">
+        <img alt="gnss_gpu urban GNSS teaser" src="https://raw.githubusercontent.com/rsasaki0109/gnss_gpu/main/docs/assets/media/site_teaser.gif" width="100%">
+      </a>
+      <br>
+      <strong><a href="https://github.com/rsasaki0109/gnss_gpu">gnss_gpu</a></strong> · 56 stars
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/rsasaki0109/localization_zoo">
+        <img alt="localization_zoo benchmark trajectory" src="https://raw.githubusercontent.com/rsasaki0109/localization_zoo/main/docs/benchmarks/latest/trajectory.png" width="100%">
+      </a>
+      <br>
+      <strong><a href="https://github.com/rsasaki0109/localization_zoo">localization_zoo</a></strong> · 37 stars
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/rsasaki0109/CloudAnalyzer">
+        <img alt="CloudAnalyzer density map QA" src="https://raw.githubusercontent.com/rsasaki0109/CloudAnalyzer/main/docs/images/density_hdl_localization_map.png" width="100%">
+      </a>
+      <br>
+      <strong><a href="https://github.com/rsasaki0109/CloudAnalyzer">CloudAnalyzer</a></strong> · 13 stars
+    </td>
+  </tr>
+</table>
+
 ## Featured Repositories
 
 <table>
@@ -53,6 +88,26 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
       </a>
     </td>
     <td valign="top" width="50%">
+      <strong><a href="https://github.com/rsasaki0109/li_slam_ros2">li_slam_ros2</a></strong><br>
+      <strong>424 stars</strong><br>
+      Tightly-coupled LiDAR inertial SLAM for ROS 2.
+      <br><br>
+      <a href="https://github.com/rsasaki0109/li_slam_ros2">
+        <img alt="li_slam_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/li_slam_ros2/develop/scanmatcher/images/li_slam.gif" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/rsasaki0109/kalman_filter_localization_ros2">kalman_filter_localization_ros2</a></strong><br>
+      <strong>350 stars</strong><br>
+      GNSS / IMU localization using Kalman filtering.
+      <br><br>
+      <a href="https://github.com/rsasaki0109/kalman_filter_localization_ros2">
+        <img alt="kalman_filter_localization_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/kalman_filter_localization_ros2/devel/images/demo_ekfl.gif" width="100%">
+      </a>
+    </td>
+    <td valign="top" width="50%">
       <strong><a href="https://github.com/rsasaki0109/lidar_localization_ros2">lidar_localization_ros2</a></strong><br>
       <strong>511 stars</strong><br>
       3D LiDAR localization with NDT/GICP and pointcloud maps in ROS 2.
@@ -64,32 +119,12 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong><a href="https://github.com/rsasaki0109/li_slam_ros2">li_slam_ros2</a></strong><br>
-      <strong>424 stars</strong><br>
-      Tightly-coupled LiDAR inertial SLAM for ROS 2.
-      <br><br>
-      <a href="https://github.com/rsasaki0109/li_slam_ros2">
-        <img alt="li_slam_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/li_slam_ros2/develop/scanmatcher/images/li_slam.gif" width="100%">
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <strong><a href="https://github.com/rsasaki0109/kalman_filter_localization_ros2">kalman_filter_localization_ros2</a></strong><br>
-      <strong>350 stars</strong><br>
-      GNSS / IMU localization using Kalman filtering.
-      <br><br>
-      <a href="https://github.com/rsasaki0109/kalman_filter_localization_ros2">
-        <img alt="kalman_filter_localization_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/kalman_filter_localization_ros2/devel/images/demo_ekfl.gif" width="100%">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
       <strong><a href="https://github.com/rsasaki0109/rust_robotics">rust_robotics</a></strong><br>
       <strong>226 stars</strong><br>
       Robotics algorithms and reference implementations in Rust.
       <br><br>
       <a href="https://github.com/rsasaki0109/rust_robotics">
-        <img alt="rust_robotics preview" src="https://raw.githubusercontent.com/rsasaki0109/rust_robotics/main/docs/assets/social-preview.svg" width="100%">
+        <img alt="rust_robotics preview" src="https://raw.githubusercontent.com/rsasaki0109/rust_robotics/main/media/dijkstra-motion-planner.gif" width="100%">
       </a>
     </td>
     <td valign="top" width="50%">
@@ -109,27 +144,7 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
       GPU-accelerated GNSS signal processing in CUDA + Python.
       <br><br>
       <a href="https://github.com/rsasaki0109/gnss_gpu">
-        <img alt="gnss_gpu preview" src="https://raw.githubusercontent.com/rsasaki0109/gnss_gpu/main/docs/assets/media/site_poster.png" width="100%">
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <strong><a href="https://github.com/rsasaki0109/CudaRobotics">CudaRobotics</a></strong><br>
-      <strong>82 stars</strong><br>
-      CUDA-accelerated robotics algorithms in C++ with 20+ SLAM, planning, and localization demos.
-      <br><br>
-      <a href="https://github.com/rsasaki0109/CudaRobotics">
-        <img alt="CudaRobotics preview" src="https://raw.githubusercontent.com/rsasaki0109/CudaRobotics/master/gif/comparison_pf_visual.gif" width="100%">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong><a href="https://github.com/rsasaki0109/dynamic-3d-object-removal">dynamic-3d-object-removal</a></strong><br>
-      <strong>72 stars</strong><br>
-      LiDAR dynamic object removal with public demos and a ROS 2 realtime node.
-      <br><br>
-      <a href="https://github.com/rsasaki0109/dynamic-3d-object-removal">
-        <img alt="dynamic-3d-object-removal preview" src="https://raw.githubusercontent.com/rsasaki0109/dynamic-3d-object-removal/master/demo/story_mode.gif" width="100%">
+        <img alt="gnss_gpu preview" src="https://raw.githubusercontent.com/rsasaki0109/gnss_gpu/main/docs/assets/media/site_teaser.gif" width="100%">
       </a>
     </td>
     <td valign="top" width="50%">
@@ -139,6 +154,26 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
       <br><br>
       <a href="https://github.com/rsasaki0109/localization_zoo">
         <img alt="localization_zoo preview" src="https://raw.githubusercontent.com/rsasaki0109/localization_zoo/main/docs/benchmarks/latest/trajectory.png" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/rsasaki0109/CudaRobotics">CudaRobotics</a></strong><br>
+      <strong>82 stars</strong><br>
+      CUDA-accelerated robotics algorithms in C++ with 20+ SLAM, planning, and localization demos.
+      <br><br>
+      <a href="https://github.com/rsasaki0109/CudaRobotics">
+        <img alt="CudaRobotics preview" src="https://raw.githubusercontent.com/rsasaki0109/CudaRobotics/master/gif/comparison_pf_visual.gif" width="100%">
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/rsasaki0109/dynamic-3d-object-removal">dynamic-3d-object-removal</a></strong><br>
+      <strong>72 stars</strong><br>
+      LiDAR dynamic object removal with public demos and a ROS 2 realtime node.
+      <br><br>
+      <a href="https://github.com/rsasaki0109/dynamic-3d-object-removal">
+        <img alt="dynamic-3d-object-removal preview" src="https://raw.githubusercontent.com/rsasaki0109/dynamic-3d-object-removal/master/demo/story_mode.gif" width="100%">
       </a>
     </td>
   </tr>
