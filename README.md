@@ -2,7 +2,7 @@
 
 Robotics software engineer at MAP IV (TIER IV group), based in Japan.
 
-I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and performance-oriented robotics systems in C++, Rust, CUDA, and ROS 2.
+I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and performance-oriented robotics systems in C++ and ROS 2.
 
 <p>
   <a href="https://rsasaki0109.github.io/">

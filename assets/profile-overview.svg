@@ -1,6 +1,6 @@
 <svg width="880" height="300" viewBox="0 0 880 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Ryohei Sasaki Open Source Overview</title>
-  <desc id="desc">Open source overview showing 3410 stars, 664 followers, and focus areas in ROS 2, LiDAR SLAM, GNSS/IMU fusion, Rust, and C++.</desc>
+  <desc id="desc">Open source overview showing 3410 stars, 664 followers, and focus areas in ROS 2, LiDAR SLAM, GNSS/IMU fusion, and C++.</desc>
   <defs>
     <linearGradient id="bg" x1="40" y1="30" x2="840" y2="270" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0F172A"/>
@@ -30,8 +30,7 @@
   <text x="244" y="211" fill="#F8FAFC" font-size="30" font-weight="700" font-family="Verdana, DejaVu Sans, sans-serif">664</text>
 
   <text x="428" y="178" fill="#93C5FD" font-size="12" font-family="Verdana, DejaVu Sans, sans-serif" letter-spacing="1">CORE STACK</text>
-  <text x="428" y="202" fill="#F8FAFC" font-size="19" font-weight="700" font-family="Verdana, DejaVu Sans, sans-serif">ROS 2 / Rust</text>
-  <text x="428" y="224" fill="#F8FAFC" font-size="19" font-weight="700" font-family="Verdana, DejaVu Sans, sans-serif">C++</text>
+  <text x="428" y="213" fill="#F8FAFC" font-size="19" font-weight="700" font-family="Verdana, DejaVu Sans, sans-serif">ROS 2 / C++</text>
 
   <rect x="620" y="148" width="218" height="30" rx="15" fill="#0B1220" stroke="#334155"/>
   <rect x="620" y="186" width="196" height="30" rx="15" fill="#0B1220" stroke="#334155"/>
