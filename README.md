@@ -39,41 +39,6 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
 - **[localization_zoo](https://github.com/rsasaki0109/localization_zoo)** · **37 stars** · Recent localization baselines, derived variants, tests, and benchmarks.
 - **[CloudAnalyzer](https://github.com/rsasaki0109/CloudAnalyzer)** · **13 stars** · CLI-first QA toolkit for point clouds, trajectories, and 3D perception outputs.
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/rsasaki0109/CudaRobotics">
-        <img alt="CudaRobotics LiDAR simulation demo" src="https://raw.githubusercontent.com/rsasaki0109/CudaRobotics/master/gif/comparison_lidar_sim.gif" width="100%">
-      </a>
-      <br>
-      <strong><a href="https://github.com/rsasaki0109/CudaRobotics">CudaRobotics</a></strong> · 82 stars
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://github.com/rsasaki0109/gnss_gpu">
-        <img alt="gnss_gpu urban GNSS teaser" src="https://raw.githubusercontent.com/rsasaki0109/gnss_gpu/main/docs/assets/media/site_teaser.gif" width="100%">
-      </a>
-      <br>
-      <strong><a href="https://github.com/rsasaki0109/gnss_gpu">gnss_gpu</a></strong> · 56 stars
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/rsasaki0109/localization_zoo">
-        <img alt="localization_zoo benchmark trajectory" src="https://raw.githubusercontent.com/rsasaki0109/localization_zoo/main/docs/benchmarks/latest/trajectory.png" width="100%">
-      </a>
-      <br>
-      <strong><a href="https://github.com/rsasaki0109/localization_zoo">localization_zoo</a></strong> · 37 stars
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://github.com/rsasaki0109/CloudAnalyzer">
-        <img alt="CloudAnalyzer density map QA" src="https://raw.githubusercontent.com/rsasaki0109/CloudAnalyzer/main/docs/images/density_hdl_localization_map.png" width="100%">
-      </a>
-      <br>
-      <strong><a href="https://github.com/rsasaki0109/CloudAnalyzer">CloudAnalyzer</a></strong> · 13 stars
-    </td>
-  </tr>
-</table>
-
 ## Featured Repositories
 
 <table>
@@ -144,7 +109,7 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
       GPU-accelerated GNSS signal processing in CUDA + Python.
       <br><br>
       <a href="https://github.com/rsasaki0109/gnss_gpu">
-        <img alt="gnss_gpu preview" src="https://raw.githubusercontent.com/rsasaki0109/gnss_gpu/main/docs/assets/media/site_teaser.gif" width="100%">
+        <img alt="gnss_gpu preview" src="https://raw.githubusercontent.com/rsasaki0109/gnss_gpu/main/docs/assets/media/site_teaser.gif" width="700" height="500" style="width:100%;aspect-ratio:7/5;object-fit:cover;">
       </a>
     </td>
     <td valign="top" width="50%">
@@ -164,7 +129,7 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
       CUDA-accelerated robotics algorithms in C++ with 20+ SLAM, planning, and localization demos.
       <br><br>
       <a href="https://github.com/rsasaki0109/CudaRobotics">
-        <img alt="CudaRobotics preview" src="https://raw.githubusercontent.com/rsasaki0109/CudaRobotics/master/gif/comparison_pf_visual.gif" width="100%">
+        <img alt="CudaRobotics preview" src="https://rsasaki0109.github.io/CudaRobotics/gpu_gaussian_splatting_slam.gif" width="700" height="500" style="width:100%;aspect-ratio:7/5;object-fit:cover;">
       </a>
     </td>
     <td valign="top" width="50%">
