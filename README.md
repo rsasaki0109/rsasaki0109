@@ -109,7 +109,7 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
       GPU-accelerated GNSS signal processing in CUDA + Python.
       <br><br>
       <a href="https://github.com/rsasaki0109/gnss_gpu">
-        <img alt="gnss_gpu preview" src="https://raw.githubusercontent.com/rsasaki0109/gnss_gpu/main/docs/assets/media/site_teaser.gif" width="700" height="500" style="width:100%;aspect-ratio:7/5;object-fit:cover;">
+        <img alt="gnss_gpu preview" src="https://raw.githubusercontent.com/rsasaki0109/gnss_gpu/main/docs/assets/media/site_teaser.gif" width="100%">
       </a>
     </td>
     <td valign="top" width="50%">
@@ -129,7 +129,7 @@ I build open-source tools for LiDAR SLAM, localization, GNSS/IMU fusion, and per
       CUDA-accelerated robotics algorithms in C++ with 20+ SLAM, planning, and localization demos.
       <br><br>
       <a href="https://github.com/rsasaki0109/CudaRobotics">
-        <img alt="CudaRobotics preview" src="https://rsasaki0109.github.io/CudaRobotics/gpu_gaussian_splatting_slam.gif" width="700" height="500" style="width:100%;aspect-ratio:7/5;object-fit:cover;">
+        <img alt="CudaRobotics preview" src="https://rsasaki0109.github.io/CudaRobotics/gpu_mppi_racing.gif" width="100%">
       </a>
     </td>
     <td valign="top" width="50%">
