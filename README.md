@@ -51,7 +51,7 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
       ROS 2 LiDAR SLAM for pointcloud-map authoring, benchmarking, and Autoware-compatible map workflows.
       <br><br>
       <a href="https://github.com/rsasaki0109/lidar_slam_ros2">
-        <img alt="lidar_slam_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/lidarslam_ros2/develop/lidarslam/images/social_autoware_map_authoring.png" width="100%">
+        <img alt="lidar_slam_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/lidar_slam_ros2/develop/lidarslam/images/map.png" width="100%">
       </a>
     </td>
     <td valign="top" width="50%">
@@ -111,7 +111,7 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
       GPU particle-filter GNSS positioning for the urban canyon with ray-traced NLOS rejection and factor-graph optimization.
       <br><br>
       <a href="https://github.com/rsasaki0109/gnss_gpu">
-        <img alt="gnss_gpu preview" src="https://raw.githubusercontent.com/rsasaki0109/gnss_gpu/main/docs/assets/media/site_teaser.gif" width="100%">
+        <img alt="gnss_gpu preview" src="https://raw.githubusercontent.com/rsasaki0109/gnss_gpu/main/docs/assets/media/site/site_teaser.gif" width="100%">
       </a>
     </td>
     <td valign="top" width="50%">
@@ -120,7 +120,7 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
       C++ from-paper reimplementations of LiDAR localization and odometry papers, with benchmarks and tests.
       <br><br>
       <a href="https://github.com/rsasaki0109/localization_zoo">
-        <img alt="localization_zoo preview" src="https://raw.githubusercontent.com/rsasaki0109/localization_zoo/main/docs/benchmarks/latest/trajectory.png" width="100%">
+        <img alt="localization_zoo preview" src="https://raw.githubusercontent.com/rsasaki0109/localization_zoo/main/docs/assets/grid_seq07.png" width="100%">
       </a>
     </td>
   </tr>
