@@ -111,7 +111,7 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
       GPU particle-filter GNSS positioning for the urban canyon with ray-traced NLOS rejection and factor-graph optimization.
       <br><br>
       <a href="https://github.com/rsasaki0109/gnss_gpu">
-        <img alt="gnss_gpu preview" src="https://raw.githubusercontent.com/rsasaki0109/gnss_gpu/main/docs/assets/media/site/site_teaser.gif" width="100%">
+        <img alt="gnss_gpu preview" src="https://raw.githubusercontent.com/rsasaki0109/gnss_gpu/main/docs/assets/media/particles/particle_viz_odaiba.gif" width="100%">
       </a>
     </td>
     <td valign="top" width="50%">
