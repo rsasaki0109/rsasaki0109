@@ -39,6 +39,7 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
 - **[visloc-rs](https://github.com/rsasaki0109/visloc-rs)** · **71 stars** · Visual and visual-inertial SLAM, SfM, and localization in pure Rust.
 - **[PoseOptimizationSLAM3D](https://github.com/rsasaki0109/PoseOptimizationSLAM3D)** · **68 stars** · Python sample code for 3D pose-optimization SLAM.
 - **[localization_zoo](https://github.com/rsasaki0109/localization_zoo)** · **55 stars** · C++ from-paper reimplementations of LiDAR localization and odometry papers, with benchmarks and tests.
+- **[SpatialRust](https://github.com/rsasaki0109/SpatialRust)** · **22 stars** · Rust-native spatial computing for point clouds, computer vision, and GPU compute without a C++/FFI layer.
 - **[CloudAnalyzer](https://github.com/rsasaki0109/CloudAnalyzer)** · **13 stars** · CLI-first QA toolkit for point clouds, trajectories, and 3D perception outputs.
 - **[RoboSim](https://github.com/rsasaki0109/RoboSim)** · **10 stars** · Robot-native Rust simulation engine with physics, sensors, Python bindings, and optional ROS 2 adapters.
 
