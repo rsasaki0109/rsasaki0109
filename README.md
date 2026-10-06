@@ -25,7 +25,7 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
 ### Top Starred
 
 - **[lidar_slam_ros2](https://github.com/rsasaki0109/lidar_slam_ros2)** · **850 stars** · ROS 2 LiDAR SLAM for pointcloud-map authoring, benchmarking, and Autoware-compatible map workflows.
-- **[lidar_localization_ros2](https://github.com/rsasaki0109/lidar_localization_ros2)** · **560 stars** · 3D LiDAR localization with NDT/GICP and pointcloud maps in ROS 2.
+- **[lidar_localization_ros2](https://github.com/rsasaki0109/lidar_localization_ros2)** · **566 stars** · 3D LiDAR localization with NDT/GICP and pointcloud maps in ROS 2.
 - **[li_slam_ros2](https://github.com/rsasaki0109/li_slam_ros2)** · **432 stars** · Tightly-coupled LiDAR inertial SLAM for ROS 2.
 - **[kalman_filter_localization_ros2](https://github.com/rsasaki0109/kalman_filter_localization_ros2)** · **369 stars** · GNSS / IMU localization using Kalman filtering.
 - **[rust_robotics](https://github.com/rsasaki0109/rust_robotics)** · **262 stars** · Robotics algorithms and reference implementations in Rust.
@@ -37,8 +37,8 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
 - **[CudaRobotics](https://github.com/rsasaki0109/CudaRobotics)** · **137 stars** · CUDA-accelerated robotics algorithms in C++ with 20+ SLAM, planning, and localization demos.
 - **[gnss_gpu](https://github.com/rsasaki0109/gnss_gpu)** · **84 stars** · GPU particle-filter GNSS positioning for the urban canyon with ray-traced NLOS rejection and factor-graph optimization.
 - **[visloc-rs](https://github.com/rsasaki0109/visloc-rs)** · **71 stars** · Visual and visual-inertial SLAM, SfM, and localization in pure Rust.
-- **[PoseOptimizationSLAM3D](https://github.com/rsasaki0109/PoseOptimizationSLAM3D)** · **68 stars** · Python sample code for 3D pose-optimization SLAM.
 - **[localization_zoo](https://github.com/rsasaki0109/localization_zoo)** · **55 stars** · C++ from-paper reimplementations of LiDAR localization and odometry papers, with benchmarks and tests.
+- **[Calibrex](https://github.com/rsasaki0109/Calibrex)** · **27 stars** · Check whether your robot's sensor calibration is still right: one command, per-axis verdicts for LiDAR, IMU, camera, GNSS, and vehicle.
 - **[SpatialRust](https://github.com/rsasaki0109/SpatialRust)** · **22 stars** · Rust-native spatial computing for point clouds, computer vision, and GPU compute without a C++/FFI layer.
 - **[CloudAnalyzer](https://github.com/rsasaki0109/CloudAnalyzer)** · **13 stars** · CLI-first QA toolkit for point clouds, trajectories, and 3D perception outputs.
 - **[RoboSim](https://github.com/rsasaki0109/RoboSim)** · **10 stars** · Robot-native Rust simulation engine with physics, sensors, Python bindings, and optional ROS 2 adapters.
@@ -53,7 +53,7 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
       ROS 2 LiDAR SLAM for pointcloud-map authoring, benchmarking, and Autoware-compatible map workflows.
       <br><br>
       <a href="https://github.com/rsasaki0109/lidar_slam_ros2">
-        <img alt="lidar_slam_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/lidar_slam_ros2/develop/lidarslam/images/map.png" width="100%">
+        <img alt="lidar_slam_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/lidar_slam_ros2/develop/lidarslam/images/slam_koide_outdoor_hard_02a.gif" width="100%">
       </a>
     </td>
     <td valign="top" width="50%">
@@ -78,11 +78,11 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
     </td>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/rsasaki0109/lidar_localization_ros2">lidar_localization_ros2</a></strong><br>
-      <strong>560 stars</strong><br>
+      <strong>566 stars</strong><br>
       3D LiDAR localization with NDT/GICP and pointcloud maps in ROS 2.
       <br><br>
       <a href="https://github.com/rsasaki0109/lidar_localization_ros2">
-        <img alt="lidar_localization_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/lidar_localization_ros2/main/images/path.png" width="100%">
+        <img alt="lidar_localization_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/lidar_localization_ros2/main/images/readme/localization_koide_outdoor_hard_02b.gif" width="100%">
       </a>
     </td>
   </tr>
