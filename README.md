@@ -65,7 +65,7 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
       Tightly-coupled LiDAR inertial SLAM for ROS 2.
       <br><br>
       <a href="https://github.com/rsasaki0109/li_slam_ros2">
-        <img alt="li_slam_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/li_slam_ros2/develop/scanmatcher/images/li_slam.gif" width="100%">
+        <img alt="li_slam_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/li_slam_ros2/develop/scanmatcher/images/li_slam.png" width="100%">
       </a>
     </td>
   </tr>
