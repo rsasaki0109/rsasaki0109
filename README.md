@@ -24,24 +24,27 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
 
 ### Top Starred
 
-- **[lidar_slam_ros2](https://github.com/rsasaki0109/lidar_slam_ros2)** · **850 stars** · ROS 2 LiDAR SLAM for pointcloud-map authoring, benchmarking, and Autoware-compatible map workflows.
-- **[lidar_localization_ros2](https://github.com/rsasaki0109/lidar_localization_ros2)** · **566 stars** · 3D LiDAR localization with NDT/GICP and pointcloud maps in ROS 2.
-- **[li_slam_ros2](https://github.com/rsasaki0109/li_slam_ros2)** · **432 stars** · Tightly-coupled LiDAR inertial SLAM for ROS 2.
+- **[lidar_slam_ros2](https://github.com/rsasaki0109/lidar_slam_ros2)** · **861 stars** · ROS 2 LiDAR SLAM for pointcloud-map authoring, benchmarking, and Autoware-compatible map workflows.
+- **[lidar_localization_ros2](https://github.com/rsasaki0109/lidar_localization_ros2)** · **580 stars** · 3D LiDAR localization with NDT/GICP and pointcloud maps in ROS 2.
+- **[li_slam_ros2](https://github.com/rsasaki0109/li_slam_ros2)** · **435 stars** · Tightly-coupled LiDAR inertial SLAM for ROS 2.
 - **[kalman_filter_localization_ros2](https://github.com/rsasaki0109/kalman_filter_localization_ros2)** · **369 stars** · GNSS / IMU localization using Kalman filtering.
-- **[rust_robotics](https://github.com/rsasaki0109/rust_robotics)** · **262 stars** · Robotics algorithms and reference implementations in Rust.
-- **[gnssplusplus-library](https://github.com/rsasaki0109/gnssplusplus-library)** · **220 stars** · Modern C++ GNSS / RTK / PPP / CLAS toolkit.
+- **[rust_robotics](https://github.com/rsasaki0109/rust_robotics)** · **264 stars** · Robotics algorithms and reference implementations in Rust.
+- **[gnssplusplus-library](https://github.com/rsasaki0109/gnssplusplus-library)** · **225 stars** · Modern C++ GNSS / RTK / PPP / CLAS toolkit.
 - **[lidar_localizer](https://github.com/rsasaki0109/lidar_localizer)** · **187 stars** · LiDAR localizer for Autoware AI.
 
 ### Recent Active
 
 - **[CudaRobotics](https://github.com/rsasaki0109/CudaRobotics)** · **137 stars** · CUDA-accelerated robotics algorithms in C++ with 20+ SLAM, planning, and localization demos.
-- **[gnss_gpu](https://github.com/rsasaki0109/gnss_gpu)** · **84 stars** · GPU particle-filter GNSS positioning for the urban canyon with ray-traced NLOS rejection and factor-graph optimization.
-- **[visloc-rs](https://github.com/rsasaki0109/visloc-rs)** · **71 stars** · Visual and visual-inertial SLAM, SfM, and localization in pure Rust.
-- **[localization_zoo](https://github.com/rsasaki0109/localization_zoo)** · **55 stars** · C++ from-paper reimplementations of LiDAR localization and odometry papers, with benchmarks and tests.
-- **[Calibrex](https://github.com/rsasaki0109/Calibrex)** · **27 stars** · Check whether your robot's sensor calibration is still right: one command, per-axis verdicts for LiDAR, IMU, camera, GNSS, and vehicle.
-- **[SpatialRust](https://github.com/rsasaki0109/SpatialRust)** · **22 stars** · Rust-native spatial computing for point clouds, computer vision, and GPU compute without a C++/FFI layer.
-- **[CloudAnalyzer](https://github.com/rsasaki0109/CloudAnalyzer)** · **13 stars** · CLI-first QA toolkit for point clouds, trajectories, and 3D perception outputs.
-- **[RoboSim](https://github.com/rsasaki0109/RoboSim)** · **10 stars** · Robot-native Rust simulation engine with physics, sensors, Python bindings, and optional ROS 2 adapters.
+- **[visloc-rs](https://github.com/rsasaki0109/visloc-rs)** · **110 stars** · SfM, visual-inertial SLAM, 3D Gaussian Splatting, and localization in pure Rust.
+- **[gnss_gpu](https://github.com/rsasaki0109/gnss_gpu)** · **90 stars** · GPU particle-filter GNSS positioning for the urban canyon with ray-traced NLOS rejection and factor-graph optimization.
+- **[localization_zoo](https://github.com/rsasaki0109/localization_zoo)** · **60 stars** · C++ from-paper reimplementations of LiDAR localization and odometry papers, with benchmarks and tests.
+- **[Calibrex](https://github.com/rsasaki0109/Calibrex)** · **30 stars** · Check whether your robot's sensor calibration is still right: one command, per-axis verdicts for LiDAR, IMU, camera, GNSS, and vehicle.
+- **[RobotNativeEngine](https://github.com/rsasaki0109/RobotNativeEngine)** · **22 stars** · Robot-native Rust simulation core with physics, sensors, Python bindings, and optional ROS 2 adapters.
+- **[aqua_localization](https://github.com/rsasaki0109/aqua_localization)** · **21 stars** · ROS 2 underwater localization for real AUV/ROV data, validated on public ocean datasets.
+- **[SpatialRust](https://github.com/rsasaki0109/SpatialRust)** · **21 stars** · Rust-native spatial computing for point clouds, computer vision, and GPU compute without a C++/FFI layer.
+- **[CloudAnalyzer](https://github.com/rsasaki0109/CloudAnalyzer)** · **18 stars** · CLI-first QA toolkit for point clouds, trajectories, and 3D perception outputs.
+- **[worldmodels_ros2](https://github.com/rsasaki0109/worldmodels_ros2)** · **11 stars** · Run existing world models from ROS 2 with runtimes, adapters, benchmarks, and visualization.
+- **[vla_ros2](https://github.com/rsasaki0109/vla_ros2)** · **11 stars** · ROS 2 runtime, benchmark, and adapter hub for Vision-Language-Action models.
 
 ## Featured Repositories
 
@@ -49,7 +52,7 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
   <tr>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/rsasaki0109/lidar_slam_ros2">lidar_slam_ros2</a></strong><br>
-      <strong>850 stars</strong><br>
+      <strong>861 stars</strong><br>
       ROS 2 LiDAR SLAM for pointcloud-map authoring, benchmarking, and Autoware-compatible map workflows.
       <br><br>
       <a href="https://github.com/rsasaki0109/lidar_slam_ros2">
@@ -58,7 +61,7 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
     </td>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/rsasaki0109/li_slam_ros2">li_slam_ros2</a></strong><br>
-      <strong>432 stars</strong><br>
+      <strong>435 stars</strong><br>
       Tightly-coupled LiDAR inertial SLAM for ROS 2.
       <br><br>
       <a href="https://github.com/rsasaki0109/li_slam_ros2">
@@ -78,7 +81,7 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
     </td>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/rsasaki0109/lidar_localization_ros2">lidar_localization_ros2</a></strong><br>
-      <strong>566 stars</strong><br>
+      <strong>580 stars</strong><br>
       3D LiDAR localization with NDT/GICP and pointcloud maps in ROS 2.
       <br><br>
       <a href="https://github.com/rsasaki0109/lidar_localization_ros2">
@@ -89,7 +92,7 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
   <tr>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/rsasaki0109/rust_robotics">rust_robotics</a></strong><br>
-      <strong>262 stars</strong><br>
+      <strong>264 stars</strong><br>
       Robotics algorithms and reference implementations in Rust.
       <br><br>
       <a href="https://github.com/rsasaki0109/rust_robotics">
@@ -98,7 +101,7 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
     </td>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/rsasaki0109/gnssplusplus-library">gnssplusplus-library</a></strong><br>
-      <strong>220 stars</strong><br>
+      <strong>225 stars</strong><br>
       Modern C++ GNSS / RTK / PPP / CLAS toolkit.
       <br><br>
       <a href="https://github.com/rsasaki0109/gnssplusplus-library">
@@ -109,7 +112,7 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
   <tr>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/rsasaki0109/gnss_gpu">gnss_gpu</a></strong><br>
-      <strong>84 stars</strong><br>
+      <strong>90 stars</strong><br>
       GPU particle-filter GNSS positioning for the urban canyon with ray-traced NLOS rejection and factor-graph optimization.
       <br><br>
       <a href="https://github.com/rsasaki0109/gnss_gpu">
@@ -118,7 +121,7 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
     </td>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/rsasaki0109/localization_zoo">localization_zoo</a></strong><br>
-      <strong>55 stars</strong><br>
+      <strong>60 stars</strong><br>
       C++ from-paper reimplementations of LiDAR localization and odometry papers, with benchmarks and tests.
       <br><br>
       <a href="https://github.com/rsasaki0109/localization_zoo">
@@ -138,11 +141,22 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
     </td>
     <td valign="top" width="50%">
       <strong><a href="https://github.com/rsasaki0109/dynamic-3d-object-removal">dynamic-3d-object-removal</a></strong><br>
-      <strong>93 stars</strong><br>
+      <strong>95 stars</strong><br>
       LiDAR dynamic object removal with public demos and a ROS 2 realtime node.
       <br><br>
       <a href="https://github.com/rsasaki0109/dynamic-3d-object-removal">
         <img alt="dynamic-3d-object-removal preview" src="https://raw.githubusercontent.com/rsasaki0109/dynamic-3d-object-removal/master/demo/story_mode.gif" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/rsasaki0109/visloc-rs">visloc-rs</a></strong><br>
+      <strong>110 stars</strong><br>
+      SfM, visual-inertial SLAM, 3D Gaussian Splatting, and localization in pure Rust.
+      <br><br>
+      <a href="https://github.com/rsasaki0109/visloc-rs">
+        <img alt="visloc-rs preview" src="https://raw.githubusercontent.com/rsasaki0109/visloc-rs/main/docs/assets/hero_vislam_lamaria.gif" width="100%">
       </a>
     </td>
   </tr>
