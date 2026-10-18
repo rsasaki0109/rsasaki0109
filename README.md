@@ -159,5 +159,14 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
         <img alt="visloc-rs preview" src="https://raw.githubusercontent.com/rsasaki0109/visloc-rs/main/docs/assets/hero_vislam_lamaria.gif" width="100%">
       </a>
     </td>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/rsasaki0109/RobotNativeEngine">RobotNativeEngine</a></strong><br>
+      <strong>22 stars</strong><br>
+      Robot-native Rust simulation core with physics, sensors, Python bindings, and optional ROS 2 adapters.
+      <br><br>
+      <a href="https://github.com/rsasaki0109/RobotNativeEngine">
+        <img alt="RobotNativeEngine preview" src="https://raw.githubusercontent.com/rsasaki0109/RobotNativeEngine/main/docs/media/house-mobile-manipulation.gif" width="100%">
+      </a>
+    </td>
   </tr>
 </table>
