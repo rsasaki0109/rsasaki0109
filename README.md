@@ -76,7 +76,7 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
       GNSS / IMU localization using Kalman filtering.
       <br><br>
       <a href="https://github.com/rsasaki0109/kalman_filter_localization_ros2">
-        <img alt="kalman_filter_localization_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/kalman_filter_localization_ros2/devel/images/demo_ekfl.gif" width="100%">
+        <img alt="kalman_filter_localization_ros2 preview" src="https://raw.githubusercontent.com/rsasaki0109/kalman_filter_localization_ros2/devel/images/hero_localization_real.gif" width="100%">
       </a>
     </td>
     <td valign="top" width="50%">
