@@ -105,7 +105,7 @@ I build open-source tools for SLAM, localization, and sensor fusion across GNSS,
       Modern C++ GNSS / RTK / PPP / CLAS toolkit.
       <br><br>
       <a href="https://github.com/rsasaki0109/gnssplusplus-library">
-        <img alt="gnssplusplus-library preview" src="https://raw.githubusercontent.com/rsasaki0109/gnssplusplus-library/develop/docs/odaiba_hero.gif" width="100%">
+        <img alt="gnssplusplus-library preview" src="https://raw.githubusercontent.com/rsasaki0109/gnssplusplus-library/afa214a/docs/odaiba_hero.gif" width="100%">
       </a>
     </td>
   </tr>
